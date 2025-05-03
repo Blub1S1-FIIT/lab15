@@ -16,18 +16,18 @@
       <description></description>
     </item>
     <item>
-      <title>My Second Post</title>
+      <title>Films</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Sat, 03 May 2025 12:01:39 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description></description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;Marvel&lt;/li&gt;&#xA;&lt;li&gt;DC&lt;/li&gt;&#xA;&lt;li&gt;Universl&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 03 May 2025 12:01:33 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;erjbnwlkndkdsanfojheoiknfsklefonesf&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
